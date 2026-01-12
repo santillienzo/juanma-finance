@@ -1,0 +1,5 @@
+{
+  "name": "Finanzas ARS",
+  "description": "Control financiero personal para empresas chicas en Pesos Argentinos. Gestión de cajas, clientes, proveedores y movimientos.",
+  "requestFramePermissions": []
+}
